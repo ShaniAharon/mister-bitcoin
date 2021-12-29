@@ -1,0 +1,15 @@
+.transfer {
+  background: #03a9f414;
+  box-shadow: 0 0 11px #0000002b;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  cursor: pointer;
+  width: 60%;
+  margin: 0 auto;
+  padding: 15px;
+
+  h2 {
+    margin-bottom: 10px;
+  }
+}

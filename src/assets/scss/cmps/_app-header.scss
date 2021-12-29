@@ -1,0 +1,17 @@
+.app-header {
+  background: #f4a803;
+  .logo {
+    @include quotes;
+  }
+  .nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .links a {
+    margin: 10px;
+    cursor: pointer;
+    color: antiquewhite;
+    font-weight: bold;
+  }
+}

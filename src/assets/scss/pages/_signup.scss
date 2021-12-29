@@ -1,0 +1,32 @@
+.signup-page {
+  text-align: center;
+  margin: 100px auto;
+  padding: 5rem;
+  background-color: #beb5c7;
+  width: max-content;
+
+  h1 {
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+
+  input {
+    padding: 10px;
+  }
+
+  button {
+    padding: 10px;
+    font-weight: bold;
+    background-color: royalblue;
+    border-radius: 5px;
+    color: #fafdfd;
+  }
+
+  button:hover {
+    background-color: rgb(20, 37, 87);
+  }
+
+  p {
+    margin-bottom: 5px;
+  }
+}
